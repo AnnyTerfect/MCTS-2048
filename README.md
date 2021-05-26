@@ -31,7 +31,7 @@ pip install -r requirements.txt
 python main.py \
 --seed 0 \
 --gamma 0.99 \
---c 50 \
+--c 100 \
 --iter_time 1 \
 --d 10 \
 --render True
